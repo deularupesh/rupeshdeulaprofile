@@ -117,6 +117,7 @@ margin: 0.2rem;
     text-transform: uppercase;
     font-size: 1.2rem;
     margin-bottom: 0.5rem;
+    color: #02899c;
 }
 
 .primary a{
@@ -127,4 +128,14 @@ margin: 0.2rem;
 .secondary a{
     color: white;
     text-decoration: none;
+}
+.aboutme h6{
+    margin: 10px;
+    color: #02899c;
+    text-decoration: underline;
+}
+
+.aboutme p{
+    margin: 10px;
+    padding: 3px;
 }
